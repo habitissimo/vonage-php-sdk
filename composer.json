@@ -36,6 +36,6 @@
   "require": {
     "php": ">=7.4.24 || ~8.0 || ~8.1 || ~8.2",
     "guzzlehttp/guzzle": "^7.0",
-    "habitissimo/vonage-client-core": "^4.6.6"
+    "habitissimo/vonage-client-core": "~4.6"
   }
 }
